@@ -19,7 +19,7 @@ I am a Senior Full Stack candidate at Ukraine. Apart from that I am seasonal Web
 
 #### Languages:
 
-HTML, PHP, Ajax, Javascript, Typescript, NodeJS, React, Next, Vue, Nuxt, Laravel, ASP.NET, Django etc
+Python, HTML, PHP, Ajax, Javascript, Typescript, NodeJS, React, Next, Vue, Nuxt, Laravel, ASP.NET, Django etc
 
 #### Database
 
